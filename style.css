@@ -1,10 +1,4 @@
-table
-{
-  margin-left: auto;
-  margin-right: auto;
-  border: 5px solid white;
 
-}
 table,th,td,tr{
   border-collapse: collapse;
   border: 2px solid black;
@@ -31,7 +25,6 @@ table,th,td,tr{
 }
 
 .slNoU{
-  font-style: 100%;
   text-align: Left;
   padding-left: 0px;
   padding-right: 0px;
@@ -86,7 +79,6 @@ th.optionalSub{
   
   
 .biology{
-  border-left: none;
    text-align: left;
  padding-left: 7px;
  padding-right: 20px;
@@ -98,7 +90,6 @@ th.optionalSub{
 
 
 .gpAbove2{
-  font-style: 75%;
   text-align: center;
 }
 
@@ -112,33 +103,28 @@ th.optionalSub{
 
   
 
-  
-
-tr:nth-child(8){
+  tr:nth-child(8){
     border-left-color: white;
-    border-left-width: none solid white;
 }
+
 
 tr:nth-child(9) th:nth-child(2){
     border-right-color: white;
-    border-right-width: none solid white;
 }
-
 
 
 tr:nth-child(9) td:nth-child(3){
     border-left-color: white;
-    border-left-width: none solid white;
 }
+
 
 tr:nth-child(9) td:nth-child(3){
     border-right-color: white;
-    border-right-width: none solid white;
 }
+
 
 tr:nth-child(9) td:nth-child(4){
     border-left-color: white;
-    border-left-width: none solid white;
 }
 
 
